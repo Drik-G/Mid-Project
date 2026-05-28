@@ -1,7 +1,9 @@
 === SPACE SHIP SIMULATION ===
-RUunning simulations of two space ships with assigned names, fuel and integrity level.
+Running simulations of two space ships with assigned names, fuel and integrity level.
 
 === HOW TO ===
 
 
-
+=== REFERENCE ===
+Encapsulation: in SpaceShip.java, variables are private.
+Inheritance: ReconShip.java and CargoShip.java extend the SpaceShip.java superclass.
