@@ -7,6 +7,7 @@ Running simulations of two space ships with assigned names, fuel and integrity l
 3. Run Main.java
 
 === REFERENCE ===
+
 Encapsulation: in SpaceShip.java, variables are private.
 Inheritance: ReconShip.java and CargoShip.java extend the SpaceShip.java superclass.
 Overriding: Both child classes override the method in the parent class .PerformMission() (runtime polymorphism)
