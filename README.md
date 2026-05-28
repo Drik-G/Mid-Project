@@ -2,9 +2,9 @@
 Running simulations of two space ships with assigned names, fuel and integrity level.
 
 === HOW TO ===
-1. Open terminal in the source folder.
-2. Compile the project by typing: javac Main.java
-3. Run the simulation by typing: java Main
+1. Open project folder inside intelliJ IDEA.
+2. Navigate to the "src" and double click to open "Main.java"
+3. Run Main.java
 
 === REFERENCE ===
 Encapsulation: in SpaceShip.java, variables are private.
