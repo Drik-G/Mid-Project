@@ -1,8 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=== STARTING FLEET COMMAND DIRECTIVES ===");
-        System.out.println();
-
         //Creating real world instances of the subclasses
         //Instance(the actual object)
         ReconShip explorer = new ReconShip("Star-X", 100, 100);
