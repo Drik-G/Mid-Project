@@ -6,8 +6,8 @@ public class SpaceShip {
     //constructor(initialize objects i guess)
     public SpaceShip(String name, int fuel, double integrity){
         this.name = name;
-        this.fuel = fuel;
-        this.integrity = integrity;
+        setFuel(fuel);
+        setIntegrity(integrity);
     }
 
     //Getter
